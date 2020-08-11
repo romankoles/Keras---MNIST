@@ -1,1 +1,1 @@
-# Keras---MNIST
+# Keras MNIST
